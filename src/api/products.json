@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "iPad Pro", "price": 500.01, "inventory": 2
+    },
+    {
+        "id": 2,
+        "title": "Samsung S21", "price": 600.99, "inventory": 10
+    },
+    {
+        "id": 1,
+        "title": "iPhone 14 Pro Max", "price": 700, "inventory": 5
+    }
+]
